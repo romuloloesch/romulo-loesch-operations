@@ -99,6 +99,9 @@ Sem palco.
 ## Modelo de trabalho  
 Remoto | Assíncrono | Foco em resultado operacional
 
+Loesch & Oráculo (site)  
+🔗 https://loescheoraculo.com.br
+
 Contato profissional  
 📧 romuloloeschmonezi@loescheoraculo.com.br  
 
