@@ -96,10 +96,12 @@ Sem palco.
 
 ---
 
-## Modelo de trabalho
+## Modelo de trabalho  
+Remoto | Assíncrono | Foco em resultado operacional
 
-**Remoto | Assíncrono | Foco em resultado operacional**
+Contato profissional  
+📧 romuloloeschmonezi@loescheoraculo.com.br  
 
-📧 **Contato profissional:**  
-**romuloloeschmonezi@loescheoraculo.com.br**
+LinkedIn (perfil pessoal)  
+🔗 https://www.linkedin.com/in/rômulo-loesch-monezi-39b76b284
 
