@@ -1,4 +1,4 @@
-# Rômulo Loesch
+# Rômulo Loesch Monezi
 
 **Arquiteto de Sistemas Operacionais, Automação e Decisão**  
 Consultoria estratégica com operação real, construída do zero.
@@ -36,6 +36,12 @@ que reduzem ruído, eliminam dependência de pessoas-chave e liberam tempo.
 Não vendo ferramenta.  
 Não vendo automação isolada.  
 Não faço teatro técnico.
+
+---
+
+## Quando faz sentido me chamar
+
+Faz sentido me chamar quando a operação já existe, mas está fragmentada, dependente de pessoas-chave ou com decisões pouco claras. Quando há times, ferramentas e dados — porém sem fluxo, critério ou previsibilidade. Entro para organizar operação, decisão e estrutura antes, entre e depois do código, criando base para que a engenharia funcione melhor sem depender de mim no dia a dia.
 
 ---
 
