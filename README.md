@@ -46,4 +46,4 @@ Tudo em operação real.
 ### Modelo de trabalho
 Remoto | Assíncrono | Foco em resultado operacional
 
-Contato: romulo@SEUEMAIL.com
+Contato: romuloloesch@hotmail.com
