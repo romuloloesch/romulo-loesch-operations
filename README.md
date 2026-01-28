@@ -39,6 +39,11 @@ Não faço teatro técnico.
 
 ---
 
+**Nota de contexto técnico**
+
+Este trabalho não substitui times de engenharia nem disputa escopo com desenvolvedores.  
+Ele atua **antes**, **entre** e **depois** do código — organizando operação, decisão e fluxo para que a engenharia funcione melhor.
+
 ## Arquitetura atual (resumo)
 
 - **Front:** site institucional publicado  
